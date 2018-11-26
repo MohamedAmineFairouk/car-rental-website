@@ -1,0 +1,76 @@
+
+#myCarousel{
+  width: 1000px;
+  height: 500px;
+  border: 1px solid black;
+  position: center;
+  margin-left: 150px;
+  margin-right: 100px;
+  margin-top: 10px ;
+  }
+#mybtn,.savoir_btn{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+
+.navimg{
+
+    padding-top:5px;
+    padding-top:5px;
+    margin-bottom:10px ;
+}
+.mynav{
+  color : #e0c8c6;
+  background-color:#e0edff ;
+  padding-top: 20px;
+  padding-bottom: 20px
+  margin-top: 20px;
+  margin-bottom:20px
+}
+
+.h4dis{
+  margin-bottom: 15px ;
+  margin-top: 20px;
+}
+.alternate-font,.nosvhs{
+  font-family: 'Tangerine', serif;
+  font-size: 35px;
+  text-shadow: 4px 4px 4px #aaa;
+  color: red ;
+
+}
+
+.recent-vehicles-wrap{
+  margin: 29px 0 0 0;
+  display: block;
+}
+
+footer {
+    background-color: #3d3d3d;
+    padding: 15px 0 0px 0;
+    color: #fff;
+    font-size: 11px;
+}
+.quick_links {
+    width: 200px;
+    display: table-cell;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+.copyright-wrap {
+    background-color: #2f2f2f;
+    color: #999999;
+    font-size: 13px;
+}
